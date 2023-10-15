@@ -1,0 +1,3 @@
+name: GlobalMonitor
+version: '${project.version}'
+main: cc.sakurarain.globalmonitor.GlobalMonitor
